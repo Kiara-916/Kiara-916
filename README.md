@@ -1,8 +1,7 @@
-Kiara White
-
-DATA ANALYST
-
+Kiara White/
+DATA ANALYST/
 kwaliyah2004@gmail.com
+
 
 
 PROFESSIONAL SUMMARY
@@ -18,9 +17,9 @@ The purpose of this project was to analyze Netflix’s content data, focusing on
 
 SKILLS
 
-Technical Skills:
+TECHNICAL SKILLS:
 
-Excel:
+EXCEL:
 
  Pivot Tables, VLOOKUP, XLOOKUP, Conditional Formatting, Charts and Dashboards
 
@@ -34,7 +33,7 @@ SQL:
 
  Analyze data using Joins, Window Functions and Cases
 
-Tableau:
+TABLEAU:
 
  Import data from different data sources
 

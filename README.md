@@ -1,6 +1,9 @@
 Kiara White
+
 DATA ANALYST
+
 kwaliyah2004@gmail.com
+
 
 PROFESSIONAL SUMMARY
 

@@ -8,7 +8,7 @@ A highly motivated entry-level data analyst with a solid foundation in Python, C
 
 PROJECTS
 
-Netflix Data Analysis
+NETFLIX DATA ANALYSIS
 
 The purpose of this project was to analyze Netflix’s content data, focusing on top directors, actors, content types, and sentiment analysis of show descriptions. By using Python for data preparation and visualization, I created bar charts and graphs that highlighted the most productive directors and actors as well as content trends over the years. Additionally, sentiment analysis helped identify how Netflix's content is perceived by its audience. This project contributed to Netflix by providing valuable insights into content performance, leading to a 30% improvement in strategic decisions and resource allocation. Overall, this analysis has enhanced Netflix's ability to focus on popular content, align future productions with viewer demands, and improve the overall content strategy.
 
